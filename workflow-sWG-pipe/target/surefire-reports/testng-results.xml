@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="1065" started-at="2019-05-28T19:51:25Z" finished-at="2019-05-28T19:51:26Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="1065" started-at="2019-05-28T19:51:25Z" finished-at="2019-05-28T19:51:26Z">
+      <class name="ca.on.oicr.pde.workflows.sWGPipeTest">
+        <test-method status="PASS" signature="validateRegressionTestDefinition()[pri:0, instance:ca.on.oicr.pde.workflows.sWGPipeTest@3108bc]" name="validateRegressionTestDefinition" duration-ms="1041" started-at="2019-05-28T15:51:25Z" finished-at="2019-05-28T15:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegressionTestDefinition -->
+      </class> <!-- ca.on.oicr.pde.workflows.sWGPipeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
